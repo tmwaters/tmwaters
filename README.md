@@ -2,7 +2,7 @@
 - 👀 I’m interested in outdoors and hiking
 - 🌱 I’m currently learning AWS solutions architect and frontend web development 
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me twitter
+- 📫 How to reach me through email and twitter
 
 <!---
 tmwaters/tmwaters is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
