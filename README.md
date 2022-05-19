@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @tmwaters
-- 👀 I’m interested in outdoors and hiking
-- 🌱 I’m currently learning AWS solutions architect and frontend web development 
+- 👀 I’m interested in Cisco, python, network automation, frontend developement, outdoors, and hiking
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me through email and twitter
 
